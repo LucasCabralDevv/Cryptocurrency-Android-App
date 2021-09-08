@@ -1,4 +1,4 @@
-package com.lucascabral.cryptocurrencycompose.ui.theme
+package com.lucascabral.cryptocurrencycompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
