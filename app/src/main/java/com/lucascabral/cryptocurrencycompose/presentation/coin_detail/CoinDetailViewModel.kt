@@ -8,7 +8,6 @@ import androidx.lifecycle.viewModelScope
 import com.lucascabral.cryptocurrencycompose.common.Constants.PARAM_COIN_ID
 import com.lucascabral.cryptocurrencycompose.common.Resource
 import com.lucascabral.cryptocurrencycompose.domain.use_case.get_coin.GetCoinUseCase
-import com.lucascabral.cryptocurrencycompose.domain.use_case.get_coins.GetCoinsUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
